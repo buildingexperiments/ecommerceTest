@@ -5,14 +5,14 @@
       "description": "Used to store papers, magazines, junk mail, letters envelopes, etc ",
       "image": "images/webLetterTray.jpg",
       "details": "https://example.com/item1-details.html"
-    } ,
+    } 
     {
       "name": "Heavy Duty Travel Kit",
       "price": "299.99",
       "description": "3 feet long, 18 inches tall and 16 inches deep, carry tripods, clothes, glass bottled mineral water, anything in the lower open compartment. The 8 drawers above can carry glue, lighters, paper, cutting boards and utensils.",
       "image": "images/webTravelTrunk.jpg",
       "details": "https://example.com/item2-details.html"
-    } ,
+    } 
     {
       "name": "The Amish Suitcase",
       "price": "147",
