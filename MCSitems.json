@@ -1,6 +1,4 @@
-{
-    "name": "itemRay",
-    "items": [
+
     {
       "name": "Classic 10\"X13\" letter trays",
       "price": "24.99",
@@ -44,7 +42,5 @@
       "details": "https://example.com/item3-details.html"
     }
         
-  ]
-}
 
 
