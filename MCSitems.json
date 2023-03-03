@@ -22,19 +22,19 @@
     "details": "https://example.com/item3-details.html"
   },
   {
-      "name": "SandTronix V.3!!! :-)",
-      "price": "5300.00",
-      "description": "Made in just 6 weeks, this new model features side-fastening rail knobs and lightweight gearbox and double-hung sanding carriage for max portability.  Sand any 6-14 inch wide timber with this sanding machine",
-      "image": "images/SandTronix3.png",
-      "details": "https://example.com/item3-details.html"
-    },
-    {
-      "name": "SandTronix V.2 :-0",
-      "price": "4750.99",
-      "description": "Made in 3.5 months and 212 man hours, this is the first sandtronix to work reliably, sanding dozens of hours worth of hemlock beams.  Sand any 6-14 inch wide timber with this sanding machine",
-      "image": "images/SandTronix2.png",
-      "details": "https://example.com/item3-details.html"
-    }
+    "name": "SandTronix V.3!!! :-)",
+    "price": "5300.00",
+    "description": "Made in just 6 weeks, this new model features side-fastening rail knobs and lightweight gearbox and double-hung sanding carriage for max portability.  Sand any 6-14 inch wide timber with this sanding machine",
+    "image": "images/SandTronix3.png",
+    "details": "https://example.com/item3-details.html"
+  },
+  {
+    "name": "SandTronix V.2 :-0",
+    "price": "4750.99",
+    "description": "Made in 3.5 months and 212 man hours, this is the first sandtronix to work reliably, sanding dozens of hours worth of hemlock beams.  Sand any 6-14 inch wide timber with this sanding machine",
+    "image": "images/SandTronix2.png",
+    "details": "https://example.com/item3-details.html"
+  }
 ]
 
         
