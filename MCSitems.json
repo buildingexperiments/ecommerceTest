@@ -1,40 +1,54 @@
-
 [
   {
-    "name": "Classic 10\"X13\" letter trays",
-    "price": "24.99",
-    "description": "Used to store papers, magazines, junk mail, letters envelopes, etc ",
-    "image": "images/webLetterTray.jpg",
-    "details": "https://example.com/item1-details.html"
-  },
-  {
-    "name": "Heavy Duty Travel Kit",
-    "price": "299.99",
-    "description": "3 feet long, 18 inches tall and 16 inches deep, carry tripods, clothes, glass bottled mineral water, anything in the lower open compartment. The 8 drawers above can carry glue, lighters, paper, cutting boards and utensils.",
-    "image": "images/webTravelTrunk.jpg",
-    "details": "https://example.com/item2-details.html"
-  },
-  {
-    "name": "The Amish Suitcase",
-    "price": "147",
-    "description": "Originally designed as an ice fishing trap box, can be used to store power tools, clothes, rulers, pencils, paper.",
-    "image": "images/webBriefCase.jpeg",
-    "details": "https://example.com/item3-details.html"
-  },
-  {
-    "name": "SandTronix V.3!!! :-)",
-    "price": "5300.00",
-    "description": "Made in just 6 weeks, this new model features side-fastening rail knobs and lightweight gearbox and double-hung sanding carriage for max portability.  Sand any 6-14 inch wide timber with this sanding machine",
-    "image": "images/SandTronix3.png",
-    "details": "https://example.com/item3-details.html"
-  },
-  {
-    "name": "SandTronix V.2 :-0",
-    "price": "4750.99",
-    "description": "Made in 3.5 months and 212 man hours, this is the first sandtronix to work reliably, sanding dozens of hours worth of hemlock beams.  Sand any 6-14 inch wide timber with this sanding machine",
-    "image": "images/SandTronix2.png",
-    "details": "https://example.com/item3-details.html"
-  }
+      "name": "Classic 10\"X13\" letter trays",
+      "id": "0000",
+      "price": "24.99",
+      "description": "Used to store papers, magazines, junk mail, letters envelopes, etc ",
+      "image": "images/webLetterTray.jpg",
+      "details": "https://example.com/item1-details.html",
+      "imagecarosel": "images/webLetterTray.jpg",
+      "tags": ["box", "plywood", "natural"]
+    }
+    {
+      "name": "Heavy Duty Travel Kit",
+      "id": "0001",
+      "price": "299.99",
+      "description": "3 feet long, 18 inches tall and 16 inches deep, carry tripods, clothes, glass bottled mineral water, anything in the lower open compartment. The 8 drawers above can carry glue, lighters, paper, cutting boards and utensils.",
+      "image": "images/webTravelTrunk.jpg",
+      "details": "https://example.com/item2-details.html",
+      "imagecarosel": "images/webLetterTray.jpg",
+      "tags": ["box", "plywood", "natural"]
+    }
+    {
+      "name": "The Amish Suitcase",
+      "id": "0002",
+      "price": "147.00",
+      "description": "Originally designed as an ice fishing trap box, can be used to store power tools, clothes, rulers, pencils, paper.",
+      "image": "images/webBriefCase.jpeg",
+      "details": "https://example.com/item3-details.html",
+      "imagecarosel": "images/webLetterTray.jpg",
+      "tags": ["box", "plywood", "natural"]
+    }
+    {
+      "name": "SandTronix V.3!!! :-)",
+      "id": "0003",
+      "price": "5300.00",
+      "description": "Made in just 6 weeks, this new model features side-fastening rail knobs and lightweight gearbox and double-hung sanding carriage for max portability.  Sand any 6-14 inch wide timber with this sanding machine",
+      "image": "images/SandTronix3.png",
+      "details": "https://example.com/item3-details.html",
+      "imagecarosel": "images/webLetterTray.jpg",
+      "tags": ["box", "plywood", "natural"]
+    }
+    {
+      "name": "SandTronix V.2 :-0",
+      "id": "0004",
+      "price": "4750.99",
+      "description": "Made in 3.5 months and 212 man hours, this is the first sandtronix to work reliably, sanding dozens of hours worth of hemlock beams.  Sand any 6-14 inch wide timber with this sanding machine",
+      "image": "images/SandTronix2.png",
+      "details": "https://example.com/item3-details.html",
+      "imagecarosel": "images/webLetterTray.jpg",
+      "tags": ["box", "plywood", "natural"]
+    }
 ]
 
         
