@@ -6,7 +6,11 @@
       "description": "Used to store papers, magazines, junk mail, letters envelopes, etc ",
       "image": "images/webLetterTray.jpg",
       "details": "https://example.com/item1-details.html",
-      "imagecarosel": "images/webLetterTray.jpg"
+      "imagecarosel": [
+    "images/webLetterTray.jpg",
+    "images/webLetterTrayKits.jpg",
+    "images/webLightBoxKit.jpg"
+     ]
     },
     {
       "name": "Heavy Duty Travel Kit",
