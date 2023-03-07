@@ -8,7 +8,7 @@
       "details": "https://example.com/item1-details.html",
       "imagecarosel": "images/webLetterTray.jpg",
       "tags": ["box", "plywood", "natural"]
-    }
+    },
     {
       "name": "Heavy Duty Travel Kit",
       "id": "0001",
@@ -18,7 +18,7 @@
       "details": "https://example.com/item2-details.html",
       "imagecarosel": "images/webLetterTray.jpg",
       "tags": ["box", "plywood", "natural"]
-    }
+    },
     {
       "name": "The Amish Suitcase",
       "id": "0002",
@@ -28,7 +28,7 @@
       "details": "https://example.com/item3-details.html",
       "imagecarosel": "images/webLetterTray.jpg",
       "tags": ["box", "plywood", "natural"]
-    }
+    },
     {
       "name": "SandTronix V.3!!! :-)",
       "id": "0003",
@@ -38,7 +38,7 @@
       "details": "https://example.com/item3-details.html",
       "imagecarosel": "images/webLetterTray.jpg",
       "tags": ["box", "plywood", "natural"]
-    }
+    },
     {
       "name": "SandTronix V.2 :-0",
       "id": "0004",
