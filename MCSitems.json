@@ -6,8 +6,7 @@
       "description": "Used to store papers, magazines, junk mail, letters envelopes, etc ",
       "image": "images/webLetterTray.jpg",
       "details": "https://example.com/item1-details.html",
-      "imagecarosel": "images/webLetterTray.jpg",
-      "tags": ["box", "plywood", "natural"]
+      "imagecarosel": "images/webLetterTray.jpg"
     },
     {
       "name": "Heavy Duty Travel Kit",
@@ -16,8 +15,7 @@
       "description": "3 feet long, 18 inches tall and 16 inches deep, carry tripods, clothes, glass bottled mineral water, anything in the lower open compartment. The 8 drawers above can carry glue, lighters, paper, cutting boards and utensils.",
       "image": "images/webTravelTrunk.jpg",
       "details": "https://example.com/item2-details.html",
-      "imagecarosel": "images/webLetterTray.jpg",
-      "tags": ["box", "plywood", "natural"]
+      "imagecarosel": "images/webLetterTray.jpg"
     },
     {
       "name": "The Amish Suitcase",
@@ -26,8 +24,7 @@
       "description": "Originally designed as an ice fishing trap box, can be used to store power tools, clothes, rulers, pencils, paper.",
       "image": "images/webBriefCase.jpeg",
       "details": "https://example.com/item3-details.html",
-      "imagecarosel": "images/webLetterTray.jpg",
-      "tags": ["box", "plywood", "natural"]
+      "imagecarosel": "images/webLetterTray.jpg"
     },
     {
       "name": "SandTronix V.3!!! :-)",
@@ -36,8 +33,7 @@
       "description": "Made in just 6 weeks, this new model features side-fastening rail knobs and lightweight gearbox and double-hung sanding carriage for max portability.  Sand any 6-14 inch wide timber with this sanding machine",
       "image": "images/SandTronix3.png",
       "details": "https://example.com/item3-details.html",
-      "imagecarosel": "images/webLetterTray.jpg",
-      "tags": ["box", "plywood", "natural"]
+      "imagecarosel": "images/webLetterTray.jpg"
     },
     {
       "name": "SandTronix V.2 :-0",
@@ -46,8 +42,7 @@
       "description": "Made in 3.5 months and 212 man hours, this is the first sandtronix to work reliably, sanding dozens of hours worth of hemlock beams.  Sand any 6-14 inch wide timber with this sanding machine",
       "image": "images/SandTronix2.png",
       "details": "https://example.com/item3-details.html",
-      "imagecarosel": "images/webLetterTray.jpg",
-      "tags": ["box", "plywood", "natural"]
+      "imagecarosel": "images/webLetterTray.jpg"
     }
 ]
 
