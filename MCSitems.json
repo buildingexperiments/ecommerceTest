@@ -7,9 +7,9 @@
       "image": "images/webLetterTray.jpg",
       "details": "https://example.com/item1-details.html",
       "imagecarosel": [
-    {"url": "images/webLetterTray.jpg"},
-    {"url": "images/webLetterTrayKits.jpg"},
-    {"url": "images/webLightBoxKit.jpg"}
+    {"url": "https://picsum.photos/id/237/200/300"},
+    {"url": "https://picsum.photos/seed/picsum/200/300"},
+    {"url": "https://picsum.photos/200/300?grayscale"}
   ]
     },
     {
