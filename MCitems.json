@@ -54,7 +54,7 @@
       "id": "0005",
       "date": "November 2020",
       "description": "Store keys, marbles, dice, various board games or sticky notes in an elegant and interestingly shaped box.  Tuck in the corner of your desk against the wall or leave on the counter to organize utensils.",
-      "image": "images/webDashTray.jpeg",
+      "image": "images/webDashTray.jpg",
       "details": "https://example.com/item3-details.html",
       "imagecarosel": "images/webDashTray.jpg",
       "tags": ["box", "plywood", "natural"]
@@ -70,8 +70,28 @@
       "tags": ["box", "plywood", "natural"]
     },
     {
-      "name": "SandTronix V.3!!! :-)",
+      "name": "Bottle Dropper Holder",
       "id": "0007",
+      "date": "December 2021",
+      "description": "Compartmentalized box to hold supplement droppers 1.5 by 1.5 by 3 inch compartmnets",
+      "image": "images/bottleHolder1.jpg",
+      "details": "https://example.com/item3-details.html",
+      "imagecarosel": "images/webGameHolder.jpg",
+      "tags": ["box", "plywood", "natural"]
+    },
+    {
+      "name": "Lightweight Box skeleton",
+      "id": "0008",
+      "date": "August 2021",
+      "description": "Strong travel box with capacity for 7 drawers, holes cut in side cause 7 lbs in weight reduction.",
+      "image": "images/webLightBoxKit.jpg",
+      "details": "https://example.com/item3-details.html",
+      "imagecarosel": "images/webGameHolder.jpg",
+      "tags": ["box", "plywood", "natural"]
+    },
+    {
+      "name": "SandTronix V.3!!! :-)",
+      "id": "0009",
       "Date": "August 2023",
       "description": "Made in just 6 weeks, this new model features side-fastening rail knobs and lightweight gearbox and double-hung sanding carriage for max portability.  Sand any 6-14 inch wide timber with this sanding machine",
       "image": "images/SandTronix3.jpg",
@@ -81,7 +101,7 @@
     },
     {
       "name": "SandTronix V.2 :-0",
-      "id": "0008",
+      "id": "0010",
       "Date": "August 2023",
       "description": "Made in 3.5 months and 212 man hours, this is the first sandtronix to work reliably, sanding dozens of hours worth of hemlock beams.  Sand any 6-14 inch wide timber with this sanding machine",
       "image": "images/SandTronix2.png",
@@ -90,5 +110,7 @@
       "tags": ["box", "plywood", "natural"]
     }
 ]
+
+
 
 
