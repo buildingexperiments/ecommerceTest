@@ -1,0 +1,112 @@
+[ 
+{
+      "name": "Classic 10\"X13\" letter trays",
+      "id": "0000",
+      "date": "January 2022",
+      "description": "Used to store papers, magazines, junk mail, letters envelopes, etc ",
+      "image": "images/webLetterTray.jpg",
+      "details": "https://example.com/item1-details.html",
+      "imagecarosel": "images/webLetterTray.jpg",
+      "tags": ["box", "plywood", "natural"]
+    },
+    {
+      "name": "Heavy Duty Travel Kit",
+      "id": "0001",
+      "date": "January 2022",
+      "description": "3 feet long, 18 inches tall and 16 inches deep, carry tripods, clothes, glass bottled mineral water, anything in the lower open compartment. The 8 drawers above can carry glue, lighters, paper, cutting boards and utensils.",
+      "image": "images/webTravelTrunk.jpg",
+      "details": "https://example.com/item2-details.html",
+      "imagecarosel": "images/webLetterTray.jpg",
+      "tags": ["box", "plywood", "natural"]
+    },
+    {
+      "name": "The Amish Suitcase",
+      "id": "0002",
+      "date": "December 2021",
+      "description": "Originally designed as an ice fishing trap box, can be used to store power tools, clothes, rulers, pencils, paper.",
+      "image": "images/webBriefCase.jpeg",
+      "details": "https://example.com/item3-details.html",
+      "imagecarosel": "images/webLetterTray.jpg",
+      "tags": ["box", "plywood", "natural"]
+    },
+    {
+      "name": "Squat Rack",
+      "id": "0003",
+      "date": "March 2022",
+      "description": "Meant to hang between beams 4' apart and support a barbell from 40-70 inches off the ground!",
+      "image": "images/webSquatRack.jpg",
+      "details": "https://example.com/item3-details.html",
+      "imagecarosel": "images/webLetterTray.jpg",
+      "tags": ["box", "plywood", "natural"]
+    },
+    {
+      "name": "2-drawer bookshelf",
+      "id": "0004",
+      "date": "August 2022",
+      "description": "Designed for a college dorm room to span the width of a commonly sized bureau.  Elegent design also holds personal items inside lockable drawers.",
+      "image": "images/lockShelf1.jpg",
+      "details": "https://example.com/item3-details.html",
+      "imagecarosel": "images/webLetterTray.jpg",
+      "tags": ["box", "plywood", "natural"]
+    },
+    {
+      "name": "Heart Shaped box",
+      "id": "0005",
+      "date": "November 2020",
+      "description": "Store keys, marbles, dice, various board games or sticky notes in an elegant and interestingly shaped box.  Tuck in the corner of your desk against the wall or leave on the counter to organize utensils.",
+      "image": "images/webDashTray.jpg",
+      "details": "https://example.com/item3-details.html",
+      "imagecarosel": "images/webDashTray.jpg",
+      "tags": ["box", "plywood", "natural"]
+    },
+    {
+      "name": "Game Control Holder",
+      "id": "0006",
+      "date": "August 2021",
+      "description": "First attempt at angled box joints, hold the gaming controller on your desk with this elegant piece of wood stationary.",
+      "image": "images/webGameHolder.jpg",
+      "details": "https://example.com/item3-details.html",
+      "imagecarosel": "images/webGameHolder.jpg",
+      "tags": ["box", "plywood", "natural"]
+    },
+    {
+      "name": "Bottle Dropper Holder",
+      "id": "0007",
+      "date": "December 2021",
+      "description": "Compartmentalized box to hold supplement droppers 1.5 by 1.5 by 3 inch compartmnets",
+      "image": "images/bottleHolder1.jpg",
+      "details": "https://example.com/item3-details.html",
+      "imagecarosel": "images/webGameHolder.jpg",
+      "tags": ["box", "plywood", "natural"]
+    },
+    {
+      "name": "Lightweight Box skeleton",
+      "id": "0008",
+      "date": "August 2021",
+      "description": "Strong travel box with capacity for 7 drawers, holes cut in side cause 7 lbs in weight reduction.",
+      "image": "images/webLightBoxKit.jpg",
+      "details": "https://example.com/item3-details.html",
+      "imagecarosel": "images/webGameHolder.jpg",
+      "tags": ["box", "plywood", "natural"]
+    },
+    {
+      "name": "SandTronix V.3!!! :-)",
+      "id": "0009",
+      "Date": "August 2023",
+      "description": "Made in just 6 weeks, this new model features side-fastening rail knobs and lightweight gearbox and double-hung sanding carriage for max portability.  Sand any 6-14 inch wide timber with this sanding machine",
+      "image": "images/SandTronix3.jpg",
+      "details": "https://example.com/item3-details.html",
+      "imagecarosel": "images/webLetterTray.jpg",
+      "tags": ["box", "plywood", "natural"]
+    },
+    {
+      "name": "SandTronix V.2 :-0",
+      "id": "0010",
+      "Date": "August 2023",
+      "description": "Made in 3.5 months and 212 man hours, this is the first sandtronix to work reliably, sanding dozens of hours worth of hemlock beams.  Sand any 6-14 inch wide timber with this sanding machine",
+      "image": "images/SandTronix2.png",
+      "details": "https://example.com/item3-details.html",
+      "imagecarosel": "images/webLetterTray.jpg",
+      "tags": ["box", "plywood", "natural"]
+    }
+]
